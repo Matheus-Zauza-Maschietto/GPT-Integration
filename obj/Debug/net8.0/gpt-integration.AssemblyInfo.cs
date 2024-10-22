@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gpt-integration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d76b27bc23e4285fe866c14e430bb27ad35b561b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4971a6d13deec3e3f66e54565b7c741093a485d")]
 [assembly: System.Reflection.AssemblyProductAttribute("gpt-integration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gpt-integration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
